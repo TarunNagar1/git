@@ -1,0 +1,34 @@
+<p style="text-align: justify;"><script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BlogPosting",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://devtechnosys.com/insights/grocery-delivery-app-maintenance/"
+},
+"headline": "Grocery Delivery App Maintenance Services in 2022",
+"description": "Read this blog to know more about grocery delivery app maintenance services in the USA. Get a quote from grocery delivery app development company.",
+"image": "https://devtechnosys.com/insights/wp-content/uploads/2022/05/Grocery-Delivery-App-Maintenance-Services.png",
+"author": {
+"@type": "Organization",
+"name": "Tarun Nagar",
+"url": "https://devtechnosys.com/"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Dev Technosys",
+"logo": {
+"@type": "ImageObject",
+"url": "https://devtechnosys.com/insights/wp-content/uploads/2019/04/Tarun-Nagar-150x150.jpg"
+}
+},
+"datePublished": "2022-05-27"
+},
+"aggregateRating" : {
+"@type" : "AggregateRating",
+"ratingValue" : "4.8",
+"bestRating" : "5",
+"worstRating" : "2",
+"ratingCount" : "249"
+}
+</script></p>
